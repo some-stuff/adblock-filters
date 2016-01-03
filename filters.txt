@@ -3,3 +3,5 @@ motherless.com###_mlabd
 
 ! pornxs.com
 pornxs.com###initializeAd
+pornxs.com###container .partners-content
+pornxs.com###container > .top-content > .right-add
