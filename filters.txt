@@ -5,3 +5,6 @@ motherless.com###_mlabd
 pornxs.com###initializeAd
 pornxs.com###container .partners-content
 pornxs.com###container > .top-content > .right-add
+
+! match.com ads
+##a[href^="http://www.match.com/cpx/en-us/landing/"]
