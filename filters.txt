@@ -8,3 +8,6 @@ pornxs.com###container > .top-content > .right-add
 
 ! match.com ads
 ##a[href^="http://www.match.com/cpx/en-us/landing/"]
+
+! porntrex.com ads
+||www.porntrex.com/images/*.gif
