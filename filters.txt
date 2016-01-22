@@ -12,6 +12,8 @@ pornxs.com###container > .top-content > .right-add
 ! porntrex.com ads
 ||www.porntrex.com/images/*.gif
 
-! generic blocking
-###flash_page > .flash > .player > .adv
+! omegle.com
+www.omegle.com###abovevideosexybtn
 
+! generic blocking
+##.player > .adv
