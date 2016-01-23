@@ -24,6 +24,7 @@ www.pornhub.com##.wrapper > .container > .nf-videos > .sectionWrapper figure
 ||/rentacar.js$subdocument,important
 ||viamichelin.*.contentabc.com/rentacar.js$important
 ||viamichelin.ads.trafficjunky.net$subdocument,important
+||viamichelin.ss.xxxmyself.com$important
 
 ! generic blocking
 ##.player > .adv
