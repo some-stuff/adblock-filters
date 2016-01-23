@@ -15,5 +15,15 @@ pornxs.com###container > .top-content > .right-add
 ! omegle.com
 www.omegle.com###abovevideosexybtn
 
+! pornhub.com
+www.pornhub.com##.wrapper > .container > .nf-videos > .sectionWrapper figure
+
+! block nasty adblock circumvention
+||xxxmyself.com$subdocument
+||trafficjunky.net$subdocument
+||/rentacar.js$subdocument,important
+||viamichelin.*.contentabc.com/rentacar.js$important
+||viamichelin.ads.trafficjunky.net$subdocument,important
+
 ! generic blocking
 ##.player > .adv
