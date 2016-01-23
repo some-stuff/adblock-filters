@@ -15,6 +15,9 @@ pornxs.com###container > .top-content > .right-add
 ! omegle.com
 www.omegle.com###abovevideosexybtn
 
+! pornxs.com
+pornxs.com###pointearn_modal
+
 ! pornhub.com
 www.pornhub.com##.wrapper > .container > .nf-videos > .sectionWrapper figure
 
