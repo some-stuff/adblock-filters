@@ -25,6 +25,9 @@ www.pornhub.com###abAlert
 ! largecamtube.com
 ||www.largecamtube.com/freelivesexchat.gif
 
+! hclips.com
+||www.hclips.com/contents/content_sources/*
+
 ! block nasty adblock circumvention
 ||xxxmyself.com$subdocument
 ||trafficjunky.net$subdocument
