@@ -21,6 +21,9 @@ pornxs.com###pointearn_modal
 ! pornhub.com
 www.pornhub.com##.wrapper > .container > .nf-videos > .sectionWrapper figure
 
+! largecamtube.com
+||www.largecamtube.com/freelivesexchat.gif
+
 ! block nasty adblock circumvention
 ||xxxmyself.com$subdocument
 ||trafficjunky.net$subdocument
