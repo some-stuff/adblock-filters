@@ -44,4 +44,6 @@ xhamster.com##.adVideo2
 4chan.org##.ad-plea-bottom
 
 ! generic blocking
-##.player > .adv
+###preRoll
+##.adv
+
