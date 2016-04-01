@@ -43,6 +43,12 @@ xhamster.com##.adVideo2
 ! 4chan.org
 4chan.org##.ad-plea-bottom
 
+! chatrandom.com
+||chatrandom.com/slidegirlad.php
+chatrandom.com###meerkat-container
+chatrandom.com###meerkat-wrap
+chatrandom.com###social
+chatrandom.com###headline
 ! generic blocking
 ###preRoll
 ##.adv
