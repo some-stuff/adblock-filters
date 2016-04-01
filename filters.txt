@@ -21,6 +21,7 @@ pornxs.com###pointearn_modal
 ! pornhub.com
 www.pornhub.com##.wrapper > .container > .nf-videos > .sectionWrapper figure
 www.pornhub.com###abAlert
+www.pornhub.com##aside
 
 ! largecamtube.com
 ||www.largecamtube.com/freelivesexchat.gif
