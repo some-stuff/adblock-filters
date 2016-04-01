@@ -36,5 +36,8 @@ www.pornhub.com###abAlert
 ||viamichelin.ads.trafficjunky.net$subdocument,important
 ||viamichelin.ss.xxxmyself.com$important
 
+! xhamster.com
+xhamster.com##.adVideo2
+
 ! generic blocking
 ##.player > .adv
