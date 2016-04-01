@@ -39,5 +39,8 @@ www.pornhub.com###abAlert
 ! xhamster.com
 xhamster.com##.adVideo2
 
+! 4chan.org
+4chan.org##.ad-plea-bottom
+
 ! generic blocking
 ##.player > .adv
