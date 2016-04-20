@@ -60,6 +60,9 @@ beeg.com###inplayerbox
 www.lovehoney.co.uk##.ui-front.ui-widget-overlay
 www.lovehoney.co.uk##.container .ui-dialog-country-switch
 
+! realgfporn.com
+www.realgfporn.com###plugs
+
 
 ! generic blocking
 ###preRoll
