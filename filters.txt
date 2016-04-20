@@ -51,6 +51,11 @@ chatrandom.com###meerkat-container
 chatrandom.com###meerkat-wrap
 chatrandom.com###social
 chatrandom.com###headline
+
+! beeg.com
+beeg.com###html5player > .active-bg
+beeg.com###inplayerbox
+
 ! generic blocking
 ###preRoll
 ##.adv
