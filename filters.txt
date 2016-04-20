@@ -63,6 +63,11 @@ www.lovehoney.co.uk##.container .ui-dialog-country-switch
 ! realgfporn.com
 www.realgfporn.com###plugs
 
+! girlfriendvideos.com
+girlfriendvideos.com###imfloat
+
+! feralamateurs.com
+feralamateurs.com###advertisements
 
 ! generic blocking
 ###preRoll
