@@ -56,6 +56,11 @@ chatrandom.com###headline
 beeg.com###html5player > .active-bg
 beeg.com###inplayerbox
 
+! lovehoney.co.uk
+www.lovehoney.co.uk##.ui-front.ui-widget-overlay
+www.lovehoney.co.uk##.container .ui-dialog-country-switch
+
+
 ! generic blocking
 ###preRoll
 ##.adv
