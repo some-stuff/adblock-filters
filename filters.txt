@@ -90,6 +90,9 @@ www.yourfreeporn.tv###download > a[href^="http://www.yourfreeporn.tv/gopremium"]
 ! amateurs-gone-wild.com
 ||www.amateurs-gone-wild.com/images/video-red-download-button.gif$image
 
+! 4sex4.com
+www.4sex4.com## .sidebar
+
 ! generic blocking
 ###preRoll
 ##.adv
