@@ -87,6 +87,9 @@ www.yourfreeporn.tv###download > a[href^="http://www.yourfreeporn.tv/gopremium"]
 ! sinclub.nl
 ||sinclub.nl/banners/$image
 
+! amateurs-gone-wild.com
+||www.amateurs-gone-wild.com/images/video-red-download-button.gif$image
+
 ! generic blocking
 ###preRoll
 ##.adv
