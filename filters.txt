@@ -75,6 +75,9 @@ feralamateurs.com###advertisements
 ! exoclick.com
 ||syndication.exoclick.com/ads-iframe-display.php$subdocument
 
+! imagetwist.com
+||imagetwist.com/backend_loader.php$script
+
 ! generic blocking
 ###preRoll
 ##.adv
