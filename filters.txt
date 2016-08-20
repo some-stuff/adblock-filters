@@ -84,6 +84,9 @@ feralamateurs.com###advertisements
 www.yourfreeporn.tv##footer > .pitchJoin
 www.yourfreeporn.tv###download > a[href^="http://www.yourfreeporn.tv/gopremium"]
 
+! sinclub.nl
+||sinclub.nl/banners/$image
+
 ! generic blocking
 ###preRoll
 ##.adv
