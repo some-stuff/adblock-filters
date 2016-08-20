@@ -8,6 +8,7 @@ motherless.com###spot_view_sb_2
 pornxs.com###initializeAd
 pornxs.com###container .partners-content
 pornxs.com###container > .top-content > .right-add
+pornxs.com###player-container > .init4Box
 
 ! match.com ads
 ##a[href^="http://www.match.com/cpx/en-us/landing/"]
