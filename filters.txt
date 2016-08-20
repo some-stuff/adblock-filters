@@ -93,6 +93,10 @@ www.yourfreeporn.tv###download > a[href^="http://www.yourfreeporn.tv/gopremium"]
 ! 4sex4.com
 www.4sex4.com## .sidebar
 
+! tube8.com
+www.tube8.com###videoPageWrapper > .main-video-wrapper > .video_column_right
+www.tube8.com###videoPageWrapper > .main-video-wrapper > .video_column_left > .video-col-01 > .underplayer_wrap
+
 ! generic blocking
 ###preRoll
 ##.adv
