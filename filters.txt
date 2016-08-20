@@ -78,6 +78,11 @@ feralamateurs.com###advertisements
 ! imagetwist.com
 ||imagetwist.com/backend_loader.php$script
 
+! yourfreeporn.tv
+||www.yourfreeporn.tv/templates/frontend/purple/images-v2/btn-get_your_password.png$image
+www.yourfreeporn.tv##footer > .pitchJoin
+www.yourfreeporn.tv###download > a[href^="http://www.yourfreeporn.tv/gopremium"]
+
 ! generic blocking
 ###preRoll
 ##.adv
