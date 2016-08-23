@@ -95,6 +95,15 @@ www.4sex4.com## .sidebar
 www.tube8.com###videoPageWrapper > .main-video-wrapper > .video_column_right
 www.tube8.com###videoPageWrapper > .main-video-wrapper > .video_column_left > .video-col-01 > .underplayer_wrap
 
+! sexo18.net
+||sexo18.net/site/assets/files/*/banner-big.jpg$image
+sexo18.net##.friend-galleries-list
+sexo18.net##.top-sites
+sexo18.net## .fav-sites
+sexo18.net##.messenger
+sexo18.net##.bottom-baners
+sexo18.net##.see-more
+
 ! generic blocking
 ###preRoll
 ##.adv
