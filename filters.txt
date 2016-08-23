@@ -9,6 +9,7 @@ pornxs.com###initializeAd
 pornxs.com###container .partners-content
 pornxs.com###container > .top-content > .right-add
 pornxs.com###player-container > .init4Box
+pornxs.com###pointearn_modal
 
 ! match.com ads
 ##a[href^="http://www.match.com/cpx/en-us/landing/"]
@@ -18,9 +19,6 @@ pornxs.com###player-container > .init4Box
 
 ! omegle.com
 www.omegle.com###abovevideosexybtn
-
-! pornxs.com
-pornxs.com###pointearn_modal
 
 ! pornhub.com
 www.pornhub.com##.wrapper > .container > .nf-videos > .sectionWrapper figure
