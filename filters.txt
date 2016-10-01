@@ -103,6 +103,7 @@ sexo18.net## .fav-sites
 sexo18.net##.messenger
 sexo18.net##.bottom-baners
 sexo18.net##.see-more
+sexo18.net##.baner
 
 ! generic blocking
 ###preRoll
