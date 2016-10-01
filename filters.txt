@@ -105,6 +105,9 @@ sexo18.net##.bottom-baners
 sexo18.net##.see-more
 sexo18.net##.baner
 
+! 4chan.org
+||s.4cdn.org/image/partyhat.gif$image
+
 ! generic blocking
 ###preRoll
 ##.adv
