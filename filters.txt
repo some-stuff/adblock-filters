@@ -108,6 +108,9 @@ sexo18.net##.baner
 ! 4chan.org
 ||s.4cdn.org/image/partyhat.gif$image
 
+! eonlinemarketing.nl
+||www.eonlinemarketing.nl$image,subdocument
+
 ! generic blocking
 ###preRoll
 ##.adv
